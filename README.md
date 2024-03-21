@@ -1,4 +1,4 @@
-# Build a Custom Kali Docker Image
+# Build Custom Kali Docker Images
 
 Need a quick Kali Linux instance but don't want the overhead of hypervisor virtualization? Build a custom headless image from a dockerfile and spin up an instance on your host machine using docker instead.
 
